@@ -1,11 +1,9 @@
-<script setup lang="ts">
-
-</script>
+<script setup lang="ts"></script>
 
 <template>
-  $END$
+  <img
+      src="~/assets/images/profile-pic.jpeg"
+      class="rounded-full w-[100px]"
+      alt="profile-pic">
 </template>
 
-<style scoped>
-
-</style>
