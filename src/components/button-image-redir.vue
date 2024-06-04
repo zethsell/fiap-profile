@@ -5,7 +5,7 @@ interface Props {
   url: string
 }
 
-const props = withDefaults(defineProps<Props>(), {})
+const props = defineProps<Props>()
 
 </script>
 
